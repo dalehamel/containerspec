@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    containerspec (0.0.1)
+    containerspec (0.0.2)
       docker-api (~> 1.33.2)
       serverspec (~> 2.38.0)
 
